@@ -1,0 +1,2 @@
+//unstaged area
+This is a square
